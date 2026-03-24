@@ -76,5 +76,3 @@ This suggests that the limitation lies in strategy design rather than signal str
 - Time series analysis and backtesting framework
 
 ---
-
-## Project Structure
